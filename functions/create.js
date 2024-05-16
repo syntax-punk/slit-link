@@ -11,8 +11,6 @@ exports.handler = async function(event, ctx) {
   const link = reqBody.link;
   const { hash, url } = generateUrl();
   
-  console.log('---> link: ', link)
-  
   try {
     if (!link) {
       return {
