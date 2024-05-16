@@ -1,8 +1,12 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+## urlzipr
 
----
+This webapp is my `ripoff` of url shortner service like bitly. Check it out here -> [Demo](https://urlzipr.syntaxpunk.com/)
 
-# svelte app
+#
+
+Built with `svelte`, `firebase` and `netlify` 
+
+#
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
